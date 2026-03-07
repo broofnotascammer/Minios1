@@ -10,7 +10,7 @@ No server required. No frameworks. No dependencies. Just a single HTML file.
 
 | Feature | Details |
 |---------|---------|
-| 🎨 **3 Desktop Themes** | Windows 11, macOS Ventura, Linux (GNOME-style) |
+| 🎨 **3 Desktop Themes** | Windows 11 
 | 📁 **File Manager** | Full CRUD with IndexedDB persistence, drag-and-drop upload |
 | 🎵 **Music Player** | Audio file playback, visualizer, playlist, shuffle/repeat |
 | 🌐 **Web Browser** | Multi-tab browsing with iframes, quick links, URL bar |
